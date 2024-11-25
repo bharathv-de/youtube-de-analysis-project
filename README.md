@@ -6,10 +6,15 @@ This project focuses on securely managing, streamlining, and analyzing YouTube v
 
 ## Project Goals
 1.Data Ingestion: Develop a process to ingest data from various sources.
+
 2.ETL Pipeline: Transform raw data into the required format for analysis.
+
 3.Data Lake: Store data from multiple sources in a centralized repository.
+
 4.Scalability: Ensure the system can scale to handle increasing data volumes.
+
 5.Cloud Infrastructure: Utilize cloud services (AWS) to manage and process large datasets.
+
 6.Reporting: Create a dashboard for visualizing and interpreting the data.
 
 ## AWS Services used
